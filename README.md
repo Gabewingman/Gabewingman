@@ -1,6 +1,6 @@
 # Hi, I'm Peter Gabriel Bersamina! 👋
 
-- Welcome to my GitHub profile! I'm a passionate web developer, eager to innovate and constantly expand my knowledge. Here’s a bit about my journey and skills:
+- Welcome to my GitHub profile! I'm a information Technology Enthusiast, eager to innovate and constantly expand my knowledge. Here’s a bit about my journey and skills:
 
 ## 👨‍💻 About Me
 
