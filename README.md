@@ -10,7 +10,7 @@ I am on a mission to transform my solid foundation in web development into impac
 
 - **Frontend:** HTML, CSS, JavaScript, React JS
 - **Backend:** Python
-- **Databases:** SQL
+- **Databases:** SQL and MongoDB
 - **Version Control:** GitHub, Git Bash
 - **Tools:** MS Office (Word, PowerPoint, Excel)
 
